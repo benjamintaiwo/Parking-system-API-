@@ -6,10 +6,10 @@ Parking System API to manage car parking in parks. Handles fee calculation and p
 Clone the repo
 ```
 clone with ssh, use
-git clone git@github.com:malikwahab/parking-system.git
+git clone git@github.com:benjamintaiwo/parking-system-API.git
 
 # clone with https, use
-git clone https://github.com/malikwahab/parking-system.git
+git clone https://github.com/benjamintaiwo/parking-system-API.git
 ```
 After cloning, create a virtual environment and install the requirements. For Linux and Mac users:
 
